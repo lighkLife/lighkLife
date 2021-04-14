@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌱 I’m currently learning rust
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lighkLife)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lighkLife&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
