@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning rust
 
 [![lighkLife's GitHub stats](https://github-readme-stats.vercel.app/api?username=lighkLife&show_icons=true)](https://github.com/lighkLife)
+
+[![lighkLife's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lighkLife&layout=compact)](https://github.com/lighkLife)
